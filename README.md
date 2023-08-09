@@ -1,3 +1,7 @@
+<p align="center"><strong> Welcome To My Profile </strong></p>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<br><br>
 
 <p align="center">
   <a href="https://github.com/pedlo07"><img src="https://github-readme-stats.vercel.app/api?username=pedlo07&hide_border=true&show_icons=true&theme=dracula" alt="alysson github status"></a><br><br>
@@ -16,7 +20,3 @@
 </p>
 
 <p align="center"><strong> I'm currently Studying </strong></p>
-
-<p align="center">
-  <a href="https://github.com/pedlo07"><img src="https://github.com/pedlo07/pedlo07/blob/main/dino.gif?raw=true" alt=" Pedro"></a>
-</p>
