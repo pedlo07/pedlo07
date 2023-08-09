@@ -16,8 +16,8 @@
 <p align="center"><strong> I'm currently Studying </strong></p>
 
   <a href="https://github.com/pedlo07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedlo07&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedlo07&show_icons=true&theme=transparent" width="300" />
 </a>
 <a href="https://github.com/pedlo07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlo07&layout=compact&show_icons=true&theme=transparent"width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlo07&layout=compact&show_icons=true&theme=transparent"width="300" />
 </a>
