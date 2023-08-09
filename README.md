@@ -16,3 +16,7 @@
 </p>
 
 <p align="center"><strong> I'm currently Studying </strong></p>
+
+<p align="center">
+  <a href="https://github.com/pedlo07"><img src="https://github.com/pedlo07/pedlo07/blob/main/dino.gif?raw=true" alt=" Pedro"></a>
+</p>
