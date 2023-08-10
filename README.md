@@ -5,11 +5,11 @@
 
 <p align="center">
  <a href="mailto: pedroalmeidaveber@gmail.com">
- <img src="https://img.shields.io/badge/-Pedro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroalmeidaveber@gmail.com" width="100"/>
+ <img src="https://img.shields.io/badge/-Pedro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroalmeidaveber@gmail.com" width="70"/>
  </a>
   
  <a href="https://www.instagram.com/pedlo09/">
- <img src="https://img.shields.io/badge/-Pedro-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedlo09/" width="100"/>
+ <img src="https://img.shields.io/badge/-Pedro-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedlo09/" width="70"/>
  </a> 
 </p>
 
